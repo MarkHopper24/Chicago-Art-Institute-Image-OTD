@@ -6,25 +6,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Jar in the Form of an Abstract Figure with Modeled Head and Wide Collar
+## Taking a Bow, plate eight from Yvette Guilbert
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6175b715-7e70-df08-4eef-d0de4262236e/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/41ae687d-b69c-6ffd-b9b2-7e611b4f8381/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Moche, North coast, Peru
+**Artist:** Henri de Toulouse-Lautrec (French, 1864-1901), printed by Westminster Press (English, 20th century), published by the Ernest Brown & Phillips (English, 20th century)
 
-**Date:** 100 BCE–500 CE
+**Date:** 1898, printed 1930
 
-**Medium:** Ceramic and pigment
+**Medium:** Lithograph (crayon with scraper) in olive-green on cream wove paper hinged at top corners to gray-brown wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8841)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/6174)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
