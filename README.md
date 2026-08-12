@@ -8,25 +8,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Capture of the Tripoli by the Enterprise
+## Statuette of a Female Figure
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/2b219d21-c128-ea2e-cb0b-69d2e9e98e5e/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/40d398a0-ba23-3254-c1f3-50d4fb3b9084/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Thomas Birch, American, born England, 1779–1851
+**Artist:** Cycladic; probably from the island of Keros
 
-**Date:** 1806–12
+**Date:** Early Bronze Age, 2600–2400 BCE
 
-**Medium:** Oil on canvas
+**Medium:** Marble
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/120163)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/52201)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
