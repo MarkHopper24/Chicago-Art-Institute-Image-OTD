@@ -10,25 +10,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Adam and Eve
+## E-16: French Hall of the Louis XII Period, c. 1500
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/905bea59-a6d2-52ef-90ee-cec035ecdf85/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/fbed6feb-1d18-325d-074d-9a8aacc6149a/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Rembrandt van Rijn, Dutch, 1606-1669
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882-1966
 
-**Date:** 1638
+**Date:** c. 1937
 
-**Medium:** Etching on ivory laid paper
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/70019)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43736)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
