@@ -11,25 +11,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## E-16: French Hall of the Louis XII Period, c. 1500
+## Coat of Arms of Haarlem, end page to Counts and Countesses of Holland, Zeeland and West-Frisia
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/fbed6feb-1d18-325d-074d-9a8aacc6149a/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/829e3990-6847-0668-08bc-3e41b2c7c1fb/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882-1966
+**Artist:** Cornelis Visscher , Dutch, c. 1629-1658
 
-**Date:** c. 1937
+**Date:** 1650
 
-**Medium:** Miniature room, mixed media
+**Medium:** Etching and engraving on ivory laid paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43736)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/10793)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
