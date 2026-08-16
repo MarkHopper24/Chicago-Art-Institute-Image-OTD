@@ -12,25 +12,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Coat of Arms of Haarlem, end page to Counts and Countesses of Holland, Zeeland and West-Frisia
+## Penitent Saint Peter
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/829e3990-6847-0668-08bc-3e41b2c7c1fb/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/d51eb11c-da63-0888-0a59-6a5ef0631142/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Cornelis Visscher , Dutch, c. 1629-1658
+**Artist:** Jusepe de Ribera (Spanish, 1588–1652)
 
-**Date:** 1650
+**Date:** c. 1630
 
-**Medium:** Etching and engraving on ivory laid paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/10793)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/120172)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
