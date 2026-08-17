@@ -13,25 +13,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Penitent Saint Peter
+## Cylinder Desk and Bookcase
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/d51eb11c-da63-0888-0a59-6a5ef0631142/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/37c1e8e6-49d5-8a86-a0cb-a5e8f5aef5f7/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jusepe de Ribera (Spanish, 1588–1652)
+**Artist:** Artist unknown (American, 19th century), Boston
 
-**Date:** c. 1630
+**Date:** 1800–10
 
-**Medium:** Oil on canvas
+**Medium:** Mahogany and white pine, with mahogany, birch, and maple veneers
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/120172)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/6471)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
