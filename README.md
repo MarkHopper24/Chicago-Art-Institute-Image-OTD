@@ -14,25 +14,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Cylinder Desk and Bookcase
+## Mother and Child
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/37c1e8e6-49d5-8a86-a0cb-a5e8f5aef5f7/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/49f45b42-b565-199f-6ef5-f09dea142205/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Artist unknown (American, 19th century), Boston
+**Artist:** Julius Gari Melchers (American, 1860–1932)
 
-**Date:** 1800–10
+**Date:** c. 1906
 
-**Medium:** Mahogany and white pine, with mahogany, birch, and maple veneers
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/6471)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/86780)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
