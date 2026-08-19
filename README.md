@@ -15,25 +15,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Mother and Child
+## Head (Uhunmwun Elao)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/49f45b42-b565-199f-6ef5-f09dea142205/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/41b0cc6b-a4ed-5367-1450-595565f077a8/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Julius Gari Melchers (American, 1860–1932)
+**Artist:** Edo, Kingdom of Benin, Nigeria, Coastal West Africa
 
-**Date:** c. 1906
+**Date:** 18th/early 19th century
 
-**Medium:** Oil on canvas
+**Medium:** Brass
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/86780)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/180750)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
