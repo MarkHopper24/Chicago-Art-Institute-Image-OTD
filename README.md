@@ -16,25 +16,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Head (Uhunmwun Elao)
+## Brother Martin Clasping the Iron Hand of Goetz
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/41b0cc6b-a4ed-5367-1450-595565f077a8/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a461b5a7-e237-1f03-f4a3-c298758756d0/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Edo, Kingdom of Benin, Nigeria, Coastal West Africa
+**Artist:** Eugène Delacroix, French, 1798-1863
 
-**Date:** 18th/early 19th century
+**Date:** 1836
 
-**Medium:** Brass
+**Medium:** Lithograph in black on ivory China paper laid down on white wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/180750)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/11098)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
