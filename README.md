@@ -17,25 +17,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Brother Martin Clasping the Iron Hand of Goetz
+## Valley of Aosta: Snowstorm, Avalanche, and Thunderstorm
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a461b5a7-e237-1f03-f4a3-c298758756d0/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/564e2e3f-eb93-88a7-d265-8fea006facff/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Eugène Delacroix, French, 1798-1863
+**Artist:** Joseph Mallord William Turner (English, 1775–1851)
 
-**Date:** 1836
+**Date:** 1836–37
 
-**Medium:** Lithograph in black on ivory China paper laid down on white wove paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/11098)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/109938)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
