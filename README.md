@@ -18,25 +18,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Valley of Aosta: Snowstorm, Avalanche, and Thunderstorm
+## Scarab Amulet
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/564e2e3f-eb93-88a7-d265-8fea006facff/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/598f3e0c-331d-96c5-f2e9-202f924a05f6/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Joseph Mallord William Turner (English, 1775–1851)
+**Artist:** Egyptian
 
-**Date:** 1836–37
+**Date:** Late Period, Dynasty 26 (664-525 BCE)
 
-**Medium:** Oil on canvas
+**Medium:** Hematite
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/109938)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/632)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
