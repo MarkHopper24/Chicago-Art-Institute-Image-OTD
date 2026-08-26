@@ -19,25 +19,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Scarab Amulet
+## Funerary Mask
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/598f3e0c-331d-96c5-f2e9-202f924a05f6/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/82f922f7-33cd-fb48-91ca-8aa050786a56/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Egyptian
+**Artist:** Egyptian; probably from Hawara, Egypt
 
-**Date:** Late Period, Dynasty 26 (664-525 BCE)
+**Date:** Late Ptolemaic Period-early Roman Period, 1st century BCE
 
-**Medium:** Hematite
+**Medium:** Cartonnage, gold leaf, and pigment
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/632)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64312)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
