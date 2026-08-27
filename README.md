@@ -20,25 +20,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Funerary Mask
+## Bottle
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/82f922f7-33cd-fb48-91ca-8aa050786a56/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a86294d6-b6ed-3fe1-706b-dd7c06c85365/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Egyptian; probably from Hawara, Egypt
+**Artist:** De Grieksche A (The Greek A) Factory, Delft, Netherlands, 1658-1811, Samuel van Eenhoorn, Dutch, 1655-1686/87
 
-**Date:** Late Ptolemaic Period-early Roman Period, 1st century BCE
+**Date:** c. 1678-85
 
-**Medium:** Cartonnage, gold leaf, and pigment
+**Medium:** Tin-glazed earthenware (Delftware)
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64312)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/6673)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
