@@ -21,25 +21,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Bottle
+## Tight-Rope Walker
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a86294d6-b6ed-3fe1-706b-dd7c06c85365/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f67d49b0-90a6-7aa3-29ab-77e5d1e9fd9c/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** De Grieksche A (The Greek A) Factory, Delft, Netherlands, 1658-1811, Samuel van Eenhoorn, Dutch, 1655-1686/87
+**Artist:** Jean Louis Forain (French, 1852–1931)
 
-**Date:** c. 1678-85
+**Date:** c. 1885
 
-**Medium:** Tin-glazed earthenware (Delftware)
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/6673)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/110867)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
