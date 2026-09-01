@@ -22,25 +22,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Tight-Rope Walker
+## Bullfight
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f67d49b0-90a6-7aa3-29ab-77e5d1e9fd9c/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/38636be8-f1bc-c451-ae65-c441919bd0c3/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jean Louis Forain (French, 1852–1931)
+**Artist:** Édouard Manet (French, 1832–1883)
 
-**Date:** c. 1885
+**Date:** 1865–66
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/110867)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/25812)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
