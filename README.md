@@ -23,25 +23,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Bullfight
+## The Cottage by the Roadside, Stormy Sky
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/38636be8-f1bc-c451-ae65-c441919bd0c3/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f4d85da1-5c80-3c7b-38cc-bf324d6ce670/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Édouard Manet (French, 1832–1883)
+**Artist:** Jules Dupré (French, 1811–1889)
 
-**Date:** 1865–66
+**Date:** c. 1860
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/25812)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/891)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
