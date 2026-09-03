@@ -24,25 +24,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Cottage by the Roadside, Stormy Sky
+## Odalisque
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f4d85da1-5c80-3c7b-38cc-bf324d6ce670/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/488e2088-06a5-6811-78b4-56d736a25019/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jules Dupré (French, 1811–1889)
+**Artist:** Jules Joseph Lefebvre (French, 1836–1912)
 
-**Date:** c. 1860
+**Date:** 1874
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/891)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/100351)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
