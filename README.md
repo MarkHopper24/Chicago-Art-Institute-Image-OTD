@@ -25,25 +25,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Odalisque
+## N. W. Corner of LaSalle and Randolph, Chicago, Showing Court House Square in the Year 1864
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/488e2088-06a5-6811-78b4-56d736a25019/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/517e4678-f99d-7d79-6bca-f1b49405781d/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jules Joseph Lefebvre (French, 1836–1912)
+**Artist:** Raoul Varin (French, 1865-1943), published by Arthur Ackermann & Son (English, active in America, 1930-1991)
 
-**Date:** 1874
+**Date:** 1928
 
-**Medium:** Oil on canvas
+**Medium:** Aquatint, with etching in brown and hand-coloring, on cream wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/100351)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2205)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
