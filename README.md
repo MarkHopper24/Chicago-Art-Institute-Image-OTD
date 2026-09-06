@@ -26,25 +26,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## N. W. Corner of LaSalle and Randolph, Chicago, Showing Court House Square in the Year 1864
+## The Plate of Apples
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/517e4678-f99d-7d79-6bca-f1b49405781d/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/2e6d6a89-61bd-5098-59d3-b41d14bf7973/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Raoul Varin (French, 1865-1943), published by Arthur Ackermann & Son (English, active in America, 1930-1991)
+**Artist:** Paul Cezanne (French, 1839–1906)
 
-**Date:** 1928
+**Date:** c. 1877
 
-**Medium:** Aquatint, with etching in brown and hand-coloring, on cream wove paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2205)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/65811)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
