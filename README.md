@@ -27,25 +27,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Plate of Apples
+## Tobias and the Angel
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/2e6d6a89-61bd-5098-59d3-b41d14bf7973/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/3a32bf1b-5094-f06b-1ea1-a54cd847a5d5/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Paul Cezanne (French, 1839–1906)
+**Artist:** Jean Charles Cazin (French, 1841–1901)
 
-**Date:** c. 1877
+**Date:** 1878
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/65811)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/873)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
