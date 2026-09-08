@@ -28,25 +28,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Tobias and the Angel
+## After a Summer Shower
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/3a32bf1b-5094-f06b-1ea1-a54cd847a5d5/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a9546ba5-6191-4e04-e209-d22a10e7d0d7/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jean Charles Cazin (French, 1841–1901)
+**Artist:** George Inness (American, 1825–1894)
 
-**Date:** 1878
+**Date:** 1894
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/873)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64715)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
