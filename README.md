@@ -29,25 +29,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## After a Summer Shower
+## Coin Depicting Cow Suckling Calf
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a9546ba5-6191-4e04-e209-d22a10e7d0d7/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/95c7ddd0-899f-ea97-75fb-1826a0f691cf/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** George Inness (American, 1825–1894)
+**Artist:** Greek; Illyria
 
-**Date:** 1894
+**Date:** 229-100 BCE
 
-**Medium:** Oil on canvas
+**Medium:** Silver
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64715)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/9768)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
