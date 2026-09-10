@@ -30,25 +30,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Coin Depicting Cow Suckling Calf
+## A32: Louisiana Bedroom, 1800–50
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/95c7ddd0-899f-ea97-75fb-1826a0f691cf/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/8e13aa8c-8088-5246-c372-8f9de59d958c/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Greek; Illyria
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** 229-100 BCE
+**Date:** c. 1940
 
-**Medium:** Silver
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/9768)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45404)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
