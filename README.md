@@ -31,25 +31,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## A32: Louisiana Bedroom, 1800–50
+## Duck-Shaped Ewer with Daoist Priest
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/8e13aa8c-8088-5246-c372-8f9de59d958c/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/97cc0bab-666f-dcee-02e9-0d2e1d3e0d7b/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
+**Artist:** Korea
 
-**Date:** c. 1940
+**Date:** Goryeo dynasty (918–1392), 12th century
 
-**Medium:** Miniature room, mixed media
+**Medium:** Stoneware with celadon glaze and underglaze incised decoration
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45404)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/22525)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
