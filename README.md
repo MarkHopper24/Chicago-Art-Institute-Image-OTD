@@ -32,25 +32,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Duck-Shaped Ewer with Daoist Priest
+## A27: Virginia Kitchen, 18th Century
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/97cc0bab-666f-dcee-02e9-0d2e1d3e0d7b/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/3074083e-727d-be22-1234-a9fc04b0096d/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Korea
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** Goryeo dynasty (918–1392), 12th century
+**Date:** c. 1940
 
-**Medium:** Stoneware with celadon glaze and underglaze incised decoration
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/22525)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45388)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
