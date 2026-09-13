@@ -33,25 +33,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## A27: Virginia Kitchen, 18th Century
+## Apollo Exposing Mars and Venus to the Ridicule of the Olympians, from Ovid's Metamorphoses
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/3074083e-727d-be22-1234-a9fc04b0096d/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/39b4e4ab-2a23-f4dd-90ac-c05a457094e4/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
+**Artist:** France, possibly Aubusson
 
-**Date:** c. 1940
+**Date:** c. 1650
 
-**Medium:** Miniature room, mixed media
+**Medium:** Wool and silk, slit and double interlocking tapestry weave
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45388)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2104)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
