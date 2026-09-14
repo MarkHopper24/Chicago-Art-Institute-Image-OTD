@@ -34,25 +34,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Apollo Exposing Mars and Venus to the Ridicule of the Olympians, from Ovid's Metamorphoses
+## York Harbor, Coast of Maine
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/39b4e4ab-2a23-f4dd-90ac-c05a457094e4/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/3192ae4d-ffca-fe91-af12-2ca681f43e13/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** France, possibly Aubusson
+**Artist:** Martin Johnson Heade (American, 1819–1904)
 
-**Date:** c. 1650
+**Date:** 1877
 
-**Medium:** Wool and silk, slit and double interlocking tapestry weave
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2104)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/152747)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
