@@ -35,25 +35,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## York Harbor, Coast of Maine
+## Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)"
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/3192ae4d-ffca-fe91-af12-2ca681f43e13/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/05cd1ba7-67d1-96c5-0e78-2eb4114b65e7/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Martin Johnson Heade (American, 1819–1904)
+**Artist:** Katsushika Hokusai 葛飾 北斎, Japanese, 1760-1849
 
-**Date:** 1877
+**Date:** 1830/33
 
-**Medium:** Oil on canvas
+**Medium:** Color woodblock print; oban
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/152747)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/77333)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
