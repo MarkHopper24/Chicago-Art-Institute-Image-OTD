@@ -36,25 +36,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)"
+## Architectural Relief Depicting the Gigantomachy (Battle Between Gods and Giants)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/05cd1ba7-67d1-96c5-0e78-2eb4114b65e7/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/2f261722-1bf7-95ff-cfb2-5384614a5adb/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Katsushika Hokusai 葛飾 北斎, Japanese, 1760-1849
+**Artist:** Etruscan
 
-**Date:** 1830/33
+**Date:** 3rd-2nd century BCE
 
-**Medium:** Color woodblock print; oban
+**Medium:** Terracotta and pigment
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/77333)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111030)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
