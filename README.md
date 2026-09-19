@@ -37,25 +37,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Architectural Relief Depicting the Gigantomachy (Battle Between Gods and Giants)
+## Fish Plate
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/2f261722-1bf7-95ff-cfb2-5384614a5adb/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/41e76dfc-8322-cc90-121b-0cab281051d4/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Etruscan
+**Artist:** Greek; Athens
 
-**Date:** 3rd-2nd century BCE
+**Date:** 400-370 BCE
 
-**Medium:** Terracotta and pigment
+**Medium:** terracotta, red-figure
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111030)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/255)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
