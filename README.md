@@ -38,25 +38,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Fish Plate
+## E8: English Bedroom of the Georgian Period, 1760–75
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/41e76dfc-8322-cc90-121b-0cab281051d4/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/597b3617-eec3-14be-b409-3bfb666d8d4a/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Greek; Athens
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** 400-370 BCE
+**Date:** c. 1937
 
-**Medium:** terracotta, red-figure
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/255)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43708)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
