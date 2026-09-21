@@ -39,25 +39,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## E8: English Bedroom of the Georgian Period, 1760–75
+## Woman and Child at the Well
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/597b3617-eec3-14be-b409-3bfb666d8d4a/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a2ddbd89-d864-8877-37bc-cd3dce12c37c/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
+**Artist:** Camille Pissarro (French, 1830–1903)
 
-**Date:** c. 1937
+**Date:** 1882
 
-**Medium:** Miniature room, mixed media
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43708)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81552)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
