@@ -40,25 +40,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Woman and Child at the Well
+## The Annunciation
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a2ddbd89-d864-8877-37bc-cd3dce12c37c/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/e35161fb-cd78-b757-8000-15ba3ebb0fc3/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Camille Pissarro (French, 1830–1903)
+**Artist:** George Hitchcock (American, 1850–1913)
 
-**Date:** 1882
+**Date:** 1887
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81552)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/7503)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
