@@ -41,25 +41,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Annunciation
+## Virgil Reading the "Aeneid" to Augustus, Octavia, and Livia
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/e35161fb-cd78-b757-8000-15ba3ebb0fc3/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/2cdaa4b6-c9d0-7230-952b-690b8e1cf4df/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** George Hitchcock (American, 1850–1913)
+**Artist:** Jean Baptiste Joseph Wicar (French, 1762–1834)
 
-**Date:** 1887
+**Date:** 1790–93
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/7503)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/17161)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
