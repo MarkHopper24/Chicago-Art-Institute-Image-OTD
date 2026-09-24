@@ -42,25 +42,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Virgil Reading the "Aeneid" to Augustus, Octavia, and Livia
+## Hackney Coach and Cabriolet Fares/ Regulations and Acts of Parliament (Handkerchief)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/2cdaa4b6-c9d0-7230-952b-690b8e1cf4df/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/633486fe-4239-e10e-d754-de933cdc2d4b/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jean Baptiste Joseph Wicar (French, 1762–1834)
+**Artist:** Designed by John Leander Bishop (English, 1810–1868), England, London
 
-**Date:** 1790–93
+**Date:** 1832
 
-**Medium:** Oil on canvas
+**Medium:** Silk, plain weave; copperplate printed
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/17161)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18432)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
