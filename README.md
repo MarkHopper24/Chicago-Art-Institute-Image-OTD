@@ -43,25 +43,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Hackney Coach and Cabriolet Fares/ Regulations and Acts of Parliament (Handkerchief)
+## Sadie Pfeifer, a Cotton Mill Spinner, Lancaster, South Carolina
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/633486fe-4239-e10e-d754-de933cdc2d4b/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f9ba3edb-ffee-783f-cd4c-eb7925455a20/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by John Leander Bishop (English, 1810–1868), England, London
+**Artist:** Lewis Wickes Hine, American, 1874–1940
 
-**Date:** 1832
+**Date:** 1908
 
-**Medium:** Silk, plain weave; copperplate printed
+**Medium:** Gelatin silver print
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18432)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/11344)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
