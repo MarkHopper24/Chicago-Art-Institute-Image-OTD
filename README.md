@@ -44,25 +44,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Sadie Pfeifer, a Cotton Mill Spinner, Lancaster, South Carolina
+## Sea View, Calm Weather (Vue de mer, temps calme)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f9ba3edb-ffee-783f-cd4c-eb7925455a20/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/8be90e71-83c3-3f98-a972-4acb9ce0e773/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Lewis Wickes Hine, American, 1874–1940
+**Artist:** Édouard Manet (French, 1832–1883)
 
-**Date:** 1908
+**Date:** 1864
 
-**Medium:** Gelatin silver print
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/11344)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81535)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
