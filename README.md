@@ -45,25 +45,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Sea View, Calm Weather (Vue de mer, temps calme)
+## The First Ten Minutes, plate two from The Leicestershire Hunt
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/8be90e71-83c3-3f98-a972-4acb9ce0e773/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/8cc65c88-5193-74a0-1205-9c3d23c3aff1/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Édouard Manet (French, 1832–1883)
+**Artist:** John Dean Paul (English, 1775-1852), published by Thomas McLean (English, 1788-1875)
 
-**Date:** 1864
+**Date:** published 1825
 
-**Medium:** Oil on canvas
+**Medium:** Hand-colored aquatint on ivory wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81535)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2080)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
