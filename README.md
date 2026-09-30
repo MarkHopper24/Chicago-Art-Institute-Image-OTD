@@ -46,25 +46,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The First Ten Minutes, plate two from The Leicestershire Hunt
+## Hydria (Water Jar)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/8cc65c88-5193-74a0-1205-9c3d23c3aff1/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a140d1bb-f954-52af-c0dc-4e0cbbd184b9/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** John Dean Paul (English, 1775-1852), published by Thomas McLean (English, 1788-1875)
+**Artist:** Attributed to the Orchard Painter, Greek; Athens
 
-**Date:** published 1825
+**Date:** 480-470 BCE
 
-**Medium:** Hand-colored aquatint on ivory wove paper
+**Medium:** terracotta, red-figure
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2080)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/252)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
