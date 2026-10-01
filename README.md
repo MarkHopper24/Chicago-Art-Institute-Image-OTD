@@ -47,25 +47,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Hydria (Water Jar)
+## Woman in a Garden
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a140d1bb-f954-52af-c0dc-4e0cbbd184b9/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/5edb357d-2e8f-8673-d9e8-4b1150af3895/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Attributed to the Orchard Painter, Greek; Athens
+**Artist:** Berthe Morisot (French, 1841–1895)
 
-**Date:** 480-470 BCE
+**Date:** 1882–83
 
-**Medium:** terracotta, red-figure
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/252)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/153798)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
