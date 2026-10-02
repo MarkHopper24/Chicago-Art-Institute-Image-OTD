@@ -48,25 +48,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Woman in a Garden
+## Young Peasant Having Her Coffee
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/5edb357d-2e8f-8673-d9e8-4b1150af3895/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/335a59a4-3f5b-b9db-b8e8-861467d211ef/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Berthe Morisot (French, 1841–1895)
+**Artist:** Camille Pissarro (French, 1830–1903)
 
-**Date:** 1882–83
+**Date:** 1881
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/153798)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81548)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
