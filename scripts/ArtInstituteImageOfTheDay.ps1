@@ -118,14 +118,29 @@ function ConvertTo-CleanText {
 function Save-Image {
     param(
         [Parameter(Mandatory = $true)][string]$Url,
-        [Parameter(Mandatory = $true)][string]$Path
+        [Parameter(Mandatory = $true)][string]$Path,
+        [Parameter(Mandatory = $true)][string]$NativeUrl
     )
     Write-Host "Downloading image: $Url"
-    Invoke-WebRequest -Uri $Url -Method Get -Headers $Headers -OutFile $Path
+    try {
+        Invoke-WebRequest -Uri $Url -Method Get -Headers $Headers -OutFile $Path
+    }
+    catch {
+        $statusCode = $_.Exception.Response.StatusCode
+        $errorText = "$($_.ErrorDetails.Message) $($_.Exception.Message)"
+        # Only retry a scale restriction. Other HTTP/download errors must still fail the run.
+        if ($statusCode -ne 403 -or $errorText -notmatch 'ScaleRestrictedException|Requests for scales in excess of 100%' -or $Url -eq $NativeUrl) {
+            throw
+        }
+        Write-Warning "Requested image size exceeds the source. Retrying at native size: $NativeUrl"
+        $Url = $NativeUrl
+        Invoke-WebRequest -Uri $Url -Method Get -Headers $Headers -OutFile $Path
+    }
     if (-not (Test-Path $Path) -or (Get-Item $Path).Length -eq 0) {
         throw "Downloaded image is missing or empty: $Path"
     }
     Write-Host ("Saved {0} ({1:N0} bytes)" -f $Path, (Get-Item $Path).Length)
+    return $Url
 }
 
 # --- Main --------------------------------------------------------------------
@@ -156,14 +171,32 @@ if (-not $art.image_id) { throw "Selected artwork '$($art.title)' has no image_i
 
 Write-Host "Selected: '$($art.title)' (id $($art.id))"
 
-# 3. Build IIIF image URLs and download both sizes.
-$imageUrlOg = "$iiifBase/$($art.image_id)/full/$OgImageWidth,/0/default.jpg"
-$imageUrlX = "$iiifBase/$($art.image_id)/full/$XImageWidth,/0/default.jpg"
+# 3. Clamp the requested widths to the IIIF source width; this server forbids upscaling.
+$imageBase = "$iiifBase/$($art.image_id)"
+$nativeImageUrl = "$imageBase/full/pct:100/0/default.jpg"  # IIIF native size, without upscaling.
+$downloadWidthOg = $OgImageWidth
+$downloadWidthX = $XImageWidth
+try {
+    $imageInfo = Invoke-RestMethod -Uri "$imageBase/info.json" -Method Get -Headers $Headers -TimeoutSec 30
+    $sourceWidth = 0
+    if (-not [int]::TryParse([string]$imageInfo.width, [ref]$sourceWidth) -or $sourceWidth -le 0) {
+        throw 'IIIF metadata has no valid source width.'
+    }
+    $downloadWidthOg = [math]::Min($OgImageWidth, $sourceWidth)
+    $downloadWidthX = [math]::Min($XImageWidth, $sourceWidth)
+    Write-Host "Source width: $sourceWidth px. Download widths: OG $downloadWidthOg px, X $downloadWidthX px."
+}
+catch {
+    # Metadata is advisory. Save-Image can recover from an explicit scale rejection below.
+    Write-Warning "Could not determine the IIIF source width. Using requested widths with a native-size fallback. $($_.Exception.Message)"
+}
+$imageUrlOg = "$imageBase/full/$downloadWidthOg,/0/default.jpg"
+$imageUrlX = "$imageBase/full/$downloadWidthX,/0/default.jpg"
 
 $localImage = "artwork.jpg"
 $localImageX = "artwork_x.jpg"
-Save-Image -Url $imageUrlOg -Path (Join-Path $RepoRoot $localImage)
-Save-Image -Url $imageUrlX -Path (Join-Path $RepoRoot $localImageX)
+$imageUrlOg = Save-Image -Url $imageUrlOg -Path (Join-Path $RepoRoot $localImage) -NativeUrl $nativeImageUrl
+$imageUrlX = Save-Image -Url $imageUrlX -Path (Join-Path $RepoRoot $localImageX) -NativeUrl $nativeImageUrl
 
 # 4. Assemble the data object the TRMNL plugin polls.
 $artworkPageUrl = "https://www.artic.edu/artworks/$($art.id)"
