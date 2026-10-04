@@ -49,25 +49,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Young Peasant Having Her Coffee
+## Chasuble
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/335a59a4-3f5b-b9db-b8e8-861467d211ef/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/c340ef34-8efa-d4b2-7e51-bbc2eb619aee/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Camille Pissarro (French, 1830–1903)
+**Artist:** Spain
 
-**Date:** 1881
+**Date:** 1775/1825
 
-**Medium:** Oil on canvas
+**Medium:** Silk, plain weave; embroidered with gilt-metal-strip-wrapped silk; embroidered in satin and stem stitches; edged with silk and gilt-metal-strip-wrapped silk, plain weave extended weft uncut fringe
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81548)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/518)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
