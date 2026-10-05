@@ -50,25 +50,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Chasuble
+## Self-Portrait Etching at a Window
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/c340ef34-8efa-d4b2-7e51-bbc2eb619aee/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a7c1f371-c9e9-7ff3-6e7e-949ae12dc939/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Spain
+**Artist:** Rembrandt van Rijn, Dutch, 1606-1669
 
-**Date:** 1775/1825
+**Date:** 1648
 
-**Medium:** Silk, plain weave; embroidered with gilt-metal-strip-wrapped silk; embroidered in satin and stem stitches; edged with silk and gilt-metal-strip-wrapped silk, plain weave extended weft uncut fringe
+**Medium:** Etching, drypoint and burin in black on ivory laid paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/518)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/181616)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
