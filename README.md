@@ -51,25 +51,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Self-Portrait Etching at a Window
+## Vétheuil
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a7c1f371-c9e9-7ff3-6e7e-949ae12dc939/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/5a487230-6002-45a7-08c4-b2198a2a2c60/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Rembrandt van Rijn, Dutch, 1606-1669
+**Artist:** Claude Monet (French, 1840–1926)
 
-**Date:** 1648
+**Date:** 1901
 
-**Medium:** Etching, drypoint and burin in black on ivory laid paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/181616)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16579)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
