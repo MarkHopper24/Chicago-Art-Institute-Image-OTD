@@ -52,25 +52,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Vétheuil
+## E19: French Dining Room of the Louis XIV Period, 1660–1700
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/5a487230-6002-45a7-08c4-b2198a2a2c60/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/8ee0ab1f-032d-2fdd-2ed6-00f460feb2af/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Claude Monet (French, 1840–1926)
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** 1901
+**Date:** c. 1937
 
-**Medium:** Oil on canvas
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16579)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43748)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
