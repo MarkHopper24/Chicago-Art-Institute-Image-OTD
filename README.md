@@ -54,25 +54,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Statue of Horus
+## A Lady Reading (Saint Mary Magdalene)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6a766b86-824d-239b-e3b8-eea48af968ee/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a599382c-d166-8f30-904b-64b19514265e/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Egyptian
+**Artist:** Master of the Female Half-Lengths (Netherlandish, active about 1520–1540)
 
-**Date:** Ptolemaic Period (332–30 BCE)
+**Date:** c. 1530
 
-**Medium:** Basalt
+**Medium:** Oil on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/180206)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/80538)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
