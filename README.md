@@ -55,25 +55,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## A Lady Reading (Saint Mary Magdalene)
+## The Seine at Port-Marly, Piles of Sand
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a599382c-d166-8f30-904b-64b19514265e/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/c4425cb6-d8b5-6390-603d-7f802406d05d/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Master of the Female Half-Lengths (Netherlandish, active about 1520–1540)
+**Artist:** Alfred Sisley (British, active in France, 1839–1899)
 
-**Date:** c. 1530
+**Date:** 1875
 
-**Medium:** Oil on panel
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/80538)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16633)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
