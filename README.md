@@ -57,25 +57,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Bust of a Woman
+## Bust of Saïd Abdullah of the Darfour People
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/725d19ab-4bd4-e640-86f2-a119e0a154e0/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/6a0e3e40-1e36-2109-378f-3fc5d29176b3/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Charles Henri Joseph Cordier (French, 1827–1905), Cast by Eck et Durand Fondeur (French, 19th century)
+**Artist:** Charles-Henri-Joseph Cordier (French, 1827-1905), Cast by Eck et Durand Fondeur (French, 19th century)
 
-**Date:** 1851
+**Date:** 1848
 
 **Medium:** Bronze
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18754)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18751)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
