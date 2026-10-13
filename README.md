@@ -58,25 +58,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Bust of Saïd Abdullah of the Darfour People
+## Mastoid (Drinking Cup) with Handles
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6a0e3e40-1e36-2109-378f-3fc5d29176b3/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/24476a3c-c0e8-28cf-8634-105171740077/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Charles-Henri-Joseph Cordier (French, 1827-1905), Cast by Eck et Durand Fondeur (French, 19th century)
+**Artist:** Attributed to the Manner of the Haimon Painter, Greek; Athens
 
-**Date:** 1848
+**Date:** 500-480 BCE
 
-**Medium:** Bronze
+**Medium:** terracotta, black-figure
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18751)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/173)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
