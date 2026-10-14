@@ -59,25 +59,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Mastoid (Drinking Cup) with Handles
+## Sleeping Infant Faun Visited by an Inquisitive Rabbit
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/24476a3c-c0e8-28cf-8634-105171740077/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/4f93b5a2-40ed-c384-9452-6215060f52e9/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Attributed to the Manner of the Haimon Painter, Greek; Athens
+**Artist:** Edward Clark Potter (American, 1857–1923)
 
-**Date:** 500-480 BCE
+**Date:** 1887–89
 
-**Medium:** terracotta, black-figure
+**Medium:** Marble
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/173)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/560)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
