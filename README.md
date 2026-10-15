@@ -60,25 +60,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Sleeping Infant Faun Visited by an Inquisitive Rabbit
+## Houses at Murnau
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/4f93b5a2-40ed-c384-9452-6215060f52e9/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Edward Clark Potter (American, 1857–1923)
+**Artist:** Vasily Kandinsky, Born Moscow (formerly Russian Empire, now Russia), 1866; died Neuilly-sur-Seine, France, 1944
 
-**Date:** 1887–89
+**Date:** 1909
 
-**Medium:** Marble
+**Medium:** Oil on cardboard
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/560)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/129849)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
