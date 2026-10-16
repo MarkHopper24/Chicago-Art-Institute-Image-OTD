@@ -61,25 +61,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Houses at Murnau
+## Earring with Dolphin Head Finial
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/6ffd5983-4180-9940-9b61-2cbd431766eb/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Vasily Kandinsky, Born Moscow (formerly Russian Empire, now Russia), 1866; died Neuilly-sur-Seine, France, 1944
+**Artist:** Greek, Hellenistic
 
-**Date:** 1909
+**Date:** 3rd-2nd century BCE
 
-**Medium:** Oil on cardboard
+**Medium:** Gold, glass, and sardonyx
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/129849)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/809)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
