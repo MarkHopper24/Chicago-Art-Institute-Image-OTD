@@ -62,25 +62,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Earring with Dolphin Head Finial
+## Boats at Rest
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6ffd5983-4180-9940-9b61-2cbd431766eb/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/56a4af78-1d23-3e2a-6119-8aa47e0cf285/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Greek, Hellenistic
+**Artist:** Arthur Wesley Dow (American, 1857–1922)
 
-**Date:** 3rd-2nd century BCE
+**Date:** c. 1895
 
-**Medium:** Gold, glass, and sardonyx
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/809)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/121377)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
