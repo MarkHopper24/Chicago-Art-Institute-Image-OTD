@@ -63,25 +63,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Boats at Rest
+## Weeping Tree
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/56a4af78-1d23-3e2a-6119-8aa47e0cf285/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/34f09257-4c7f-3421-7396-e9dba321258a/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Arthur Wesley Dow (American, 1857–1922)
+**Artist:** Vincent van Gogh, Dutch, 1853-1890
 
-**Date:** c. 1895
+**Date:** 1889
 
-**Medium:** Oil on canvas
+**Medium:** Reed pen and black-brown ink, with black chalk on off-white wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/121377)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/52733)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
