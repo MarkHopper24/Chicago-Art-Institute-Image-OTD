@@ -64,25 +64,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Weeping Tree
+## The Last Drop
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/34f09257-4c7f-3421-7396-e9dba321258a/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/9942d5ce-3d6e-7820-0c59-472889350fc5/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Vincent van Gogh, Dutch, 1853-1890
+**Artist:** Charles Joseph Hullmandel (English 1789-1850), after Thomas Rowlandson (English, 1756-1827)
 
-**Date:** 1889
+**Date:** published January 1, 1829
 
-**Medium:** Reed pen and black-brown ink, with black chalk on off-white wove paper
+**Medium:** Lithograph on paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/52733)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/14688)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
