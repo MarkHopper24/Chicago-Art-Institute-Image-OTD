@@ -66,25 +66,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Saint Simon
+## The Solitude of the Soul
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a8422449-3c69-f01f-d1f4-b2faea1a303c/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/3454713a-b08e-46f1-302c-d61ed1168293/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Master F.V.B., Netherlandish, active 1475-1500
+**Artist:** Lorado Taft (American, 1860–1936)
 
-**Date:** c. 1500
+**Date:** Modeled in plaster 1901; sculpted in marble 1914
 
-**Medium:** Engraving on paper
+**Medium:** Marble
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/18170)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/70466)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
