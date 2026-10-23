@@ -67,25 +67,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Solitude of the Soul
+## Skyphos (Drinking Cup)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/3454713a-b08e-46f1-302c-d61ed1168293/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/1fbb10a8-4a6c-925d-f2c1-2aa96261b3bf/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Lorado Taft (American, 1860–1936)
+**Artist:** Greek; Athens
 
-**Date:** Modeled in plaster 1901; sculpted in marble 1914
+**Date:** 450-400 BCE
 
-**Medium:** Marble
+**Medium:** terracotta
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/70466)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/259)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
