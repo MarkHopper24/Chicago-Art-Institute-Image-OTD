@@ -68,25 +68,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Skyphos (Drinking Cup)
+## Large Plate
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/1fbb10a8-4a6c-925d-f2c1-2aa96261b3bf/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/29db29df-a344-aec4-eb71-45b3448cb37b/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Greek; Athens
+**Artist:** Talavera poblana, Puebla, Mexico
 
-**Date:** 450-400 BCE
+**Date:** 1775–1825
 
-**Medium:** terracotta
+**Medium:** Tin-glazed earthenware
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/259)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/10507)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
