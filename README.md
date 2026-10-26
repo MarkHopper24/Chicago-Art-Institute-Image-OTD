@@ -70,25 +70,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Eve
+## Jupiter Rebuked by Venus
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/b07c2b88-f2a2-4d0a-e401-ebf8d7928373/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/06f3c07e-c180-00ef-1f0e-5f1325461459/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Lucas Cranach the Elder (German, 1472–1553)
+**Artist:** Abraham Janssens (Flemish, c. 1575-1632)
 
-**Date:** 1533–37
+**Date:** c. 1612
 
-**Medium:** Oil on panel
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21668)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64996)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
