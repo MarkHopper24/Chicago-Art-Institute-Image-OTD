@@ -71,25 +71,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Jupiter Rebuked by Venus
+## The Actor Segawa Kikunojo I as Hanjo in the play "Tsumagoi Sumidagawa," performed at the Nakamura Theater in the third month, 1733
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/06f3c07e-c180-00ef-1f0e-5f1325461459/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/57c8fc9a-6731-7424-a17f-b47e69c91904/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Abraham Janssens (Flemish, c. 1575-1632)
+**Artist:** Torii Kiyomasu II, Japanese, 1706 (?)–1763 (?)
 
-**Date:** c. 1612
+**Date:** 1733
 
-**Medium:** Oil on canvas
+**Medium:** Hand-colored woodblock print; hosoban, urushi-e
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/64996)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/19318)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
