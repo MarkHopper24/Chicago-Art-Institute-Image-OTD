@@ -72,25 +72,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Actor Segawa Kikunojo I as Hanjo in the play "Tsumagoi Sumidagawa," performed at the Nakamura Theater in the third month, 1733
+## The Departure of the Boats, Étretat
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/57c8fc9a-6731-7424-a17f-b47e69c91904/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/6ca224d1-c3dc-a223-a127-0492301a2ebb/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Torii Kiyomasu II, Japanese, 1706 (?)–1763 (?)
+**Artist:** Claude Monet (French, 1840–1926)
 
-**Date:** 1733
+**Date:** 1885
 
-**Medium:** Hand-colored woodblock print; hosoban, urushi-e
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/19318)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81540)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
