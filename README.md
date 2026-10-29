@@ -73,25 +73,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Departure of the Boats, Étretat
+## Sketch for The Revolt of Cairo
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6ca224d1-c3dc-a223-a127-0492301a2ebb/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/ec14e825-ed02-c8a5-c25d-c04cbbc6a471/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Claude Monet (French, 1840–1926)
+**Artist:** Anne-Louis Girodet de Roussy-Trioson (French, 1767-1824)
 
-**Date:** 1885
+**Date:** c. 1810
 
-**Medium:** Oil on canvas
+**Medium:** Oil and ink on paper, laid down on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81540)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/152851)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
