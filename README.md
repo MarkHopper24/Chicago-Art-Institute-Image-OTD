@@ -74,25 +74,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Sketch for The Revolt of Cairo
+## Reliquary Monstrance with a Tooth of Saint John the Baptist
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/ec14e825-ed02-c8a5-c25d-c04cbbc6a471/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/eb7680d8-9926-fc05-fb4a-ac70bb1fb13e/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Anne-Louis Girodet de Roussy-Trioson (French, 1767-1824)
+**Artist:** Weddeghe Velstede (German, active 1432-73), container: Egyptian
 
-**Date:** c. 1810
+**Date:** 1433; container: 900/1200
 
-**Medium:** Oil and ink on paper, laid down on canvas
+**Medium:** Silver gilt, rock crystal, textile, and human remains
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/152851)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/88419)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
