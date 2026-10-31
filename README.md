@@ -75,25 +75,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Reliquary Monstrance with a Tooth of Saint John the Baptist
+## The Crucifixion
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/eb7680d8-9926-fc05-fb4a-ac70bb1fb13e/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f5eb11a2-945f-f7cb-9994-ab54e8f24804/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Weddeghe Velstede (German, active 1432-73), container: Egyptian
+**Artist:** Lucas Cranach the Elder (German, 1472–1553)
 
-**Date:** 1433; container: 900/1200
+**Date:** 1538
 
-**Medium:** Silver gilt, rock crystal, textile, and human remains
+**Medium:** Oil on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/88419)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59856)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
