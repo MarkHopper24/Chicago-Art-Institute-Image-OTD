@@ -76,25 +76,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Crucifixion
+## Self-Portrait
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f5eb11a2-945f-f7cb-9994-ab54e8f24804/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/d5c86d65-97e1-478b-8ecf-cc668355d923/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Lucas Cranach the Elder (German, 1472–1553)
+**Artist:** Edgar Degas, French, 1834-1917
 
-**Date:** 1538
+**Date:** 1857
 
-**Medium:** Oil on panel
+**Medium:** Etching in black on ivory laid paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59856)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/13551)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
