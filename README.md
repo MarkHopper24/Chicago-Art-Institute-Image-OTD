@@ -77,25 +77,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Self-Portrait
+## Venus and Cupid
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/d5c86d65-97e1-478b-8ecf-cc668355d923/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/b78bb8b2-48a8-6ccb-7c5d-2b301e06e35a/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Edgar Degas, French, 1834-1917
+**Artist:** Luca Cambiaso (Italian, 1527–1585)
 
-**Date:** 1857
+**Date:** c. 1570
 
-**Medium:** Etching in black on ivory laid paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/13551)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/44816)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
