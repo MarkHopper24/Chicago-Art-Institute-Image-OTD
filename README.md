@@ -81,25 +81,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Eve after the Fall
+## E23: French Dining Room of the Louis XV/Louis XVI Periods, 1760–80
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/b8bf5458-1f17-f4ec-8778-f4389ff786ff/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/cd0844f5-24e5-add1-1e17-5efc782143de/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Auguste Rodin (French, 1840–1917)
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** Modeled 1883, carved c. 1886
+**Date:** c. 1937
 
-**Medium:** Marble
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16963)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43761)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
