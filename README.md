@@ -82,25 +82,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## E23: French Dining Room of the Louis XV/Louis XVI Periods, 1760–80
+## The Music Lesson
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/cd0844f5-24e5-add1-1e17-5efc782143de/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/d55ad474-aa3c-6881-b10d-06a9ac6e05b7/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
+**Artist:** Gerard ter Borch the Younger (Dutch, 1617-1681)
 
-**Date:** c. 1937
+**Date:** c. 1670
 
-**Medium:** Miniature room, mixed media
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43761)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/512)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
