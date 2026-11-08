@@ -83,25 +83,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Music Lesson
+## Life Study (Study of an Egyptian Girl)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/d55ad474-aa3c-6881-b10d-06a9ac6e05b7/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/e6dd6199-c245-d1b4-a997-ce89eafb48ca/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Gerard ter Borch the Younger (Dutch, 1617-1681)
+**Artist:** John Singer Sargent (American, 1856–1925)
 
-**Date:** c. 1670
+**Date:** 1891
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/512)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/121629)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
