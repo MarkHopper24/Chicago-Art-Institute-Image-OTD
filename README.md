@@ -84,25 +84,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Life Study (Study of an Egyptian Girl)
+## Weeping Woman
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/e6dd6199-c245-d1b4-a997-ce89eafb48ca/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a791b974-21b8-5ce1-38b9-88ac2c9ebcf3/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** John Singer Sargent (American, 1856–1925)
+**Artist:** Vincent van Gogh, Dutch, 1853-1890
 
-**Date:** 1891
+**Date:** 1883
 
-**Medium:** Oil on canvas
+**Medium:** Black and white chalk, with brush and stumping, brush and black and gray wash, and traces of graphite, over a brush and brown ink underdrawing on ivory wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/121629)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59774)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
