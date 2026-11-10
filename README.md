@@ -85,25 +85,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Weeping Woman
+## Circassian Cavalry Awaiting their Commanding Officer at the Door of a Byzantine Monument; Memory of the Orient
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/a791b974-21b8-5ce1-38b9-88ac2c9ebcf3/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f2cf5f64-7c25-7d20-42a2-bd371ee9f68b/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Vincent van Gogh, Dutch, 1853-1890
+**Artist:** Alberto Pasini (Italian, 1826-1899)
 
-**Date:** 1883
+**Date:** 1880
 
-**Medium:** Black and white chalk, with brush and stumping, brush and black and gray wash, and traces of graphite, over a brush and brown ink underdrawing on ivory wove paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59774)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111736)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
