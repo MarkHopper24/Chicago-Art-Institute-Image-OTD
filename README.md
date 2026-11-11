@@ -86,25 +86,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Circassian Cavalry Awaiting their Commanding Officer at the Door of a Byzantine Monument; Memory of the Orient
+## E26: French Anteroom of the Empire Period, c. 1810
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f2cf5f64-7c25-7d20-42a2-bd371ee9f68b/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f022dccb-e2db-e44e-56b2-efd64d1d75da/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Alberto Pasini (Italian, 1826-1899)
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** 1880
+**Date:** c. 1937
 
-**Medium:** Oil on canvas
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111736)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43771)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
