@@ -87,25 +87,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## E26: French Anteroom of the Empire Period, c. 1810
+## A28: South Carolina Drawing Room, 1775–1800
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f022dccb-e2db-e44e-56b2-efd64d1d75da/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/5deff21d-a92a-0808-3023-918544ea0145/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
 **Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
 
-**Date:** c. 1937
+**Date:** c. 1940
 
 **Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43771)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45392)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
