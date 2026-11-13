@@ -88,25 +88,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## A28: South Carolina Drawing Room, 1775–1800
+## Parrot Olla
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/5deff21d-a92a-0808-3023-918544ea0145/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/b4a219be-d650-106e-d3d7-6de7325dcc50/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882–1966
+**Artist:** Ceramist unknown (Acoma), Pueblo of Acoma, New Mexico
 
-**Date:** c. 1940
+**Date:** c. 1880s
 
-**Medium:** Miniature room, mixed media
+**Medium:** Earthenware and slip
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/45392)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/189293)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
