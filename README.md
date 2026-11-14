@@ -89,25 +89,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Parrot Olla
+## Landscape with a Rainbow
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/b4a219be-d650-106e-d3d7-6de7325dcc50/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/c8ad372d-2aaf-2ca8-d429-0a942446ef79/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Ceramist unknown (Acoma), Pueblo of Acoma, New Mexico
+**Artist:** Charles François Daubigny, French, 1817-1878
 
-**Date:** c. 1880s
+**Date:** c. 1871
 
-**Medium:** Earthenware and slip
+**Medium:** Black and red chalk on tan wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/189293)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/14475)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
