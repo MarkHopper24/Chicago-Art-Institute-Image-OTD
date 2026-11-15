@@ -90,25 +90,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Landscape with a Rainbow
+## Madame François Buron
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/c8ad372d-2aaf-2ca8-d429-0a942446ef79/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/77f1c8e3-16c6-1147-f4aa-4cfc8bd3eb8b/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Charles François Daubigny, French, 1817-1878
+**Artist:** Jacques-Louis David (French, 1748–1825)
 
-**Date:** c. 1871
+**Date:** 1769
 
-**Medium:** Black and red chalk on tan wove paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/14475)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/88632)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
