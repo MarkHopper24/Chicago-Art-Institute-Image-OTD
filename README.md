@@ -91,25 +91,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Madame François Buron
+## Fragment
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/77f1c8e3-16c6-1147-f4aa-4cfc8bd3eb8b/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/196438f8-33de-d834-2b24-60b5be84f1d7/full/913,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jacques-Louis David (French, 1748–1825)
+**Artist:** Italy
 
-**Date:** 1769
+**Date:** c. 1600
 
-**Medium:** Oil on canvas
+**Medium:** Silk, cut, uncut, voided velvet with additional patterning wefts in gold foil against plain weave foundation
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/88632)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/1992)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
