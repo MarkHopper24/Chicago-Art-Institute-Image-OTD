@@ -92,25 +92,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Fragment
+## Rinaldo and the Magus of Ascalon
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/196438f8-33de-d834-2b24-60b5be84f1d7/full/913,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/bd2dd3d8-14f3-7acc-baf7-1033694d3740/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Italy
+**Artist:** Giovanni Battista Tiepolo (Italian, 1696–1770)
 
-**Date:** c. 1600
+**Date:** c. 1742–45
 
-**Medium:** Silk, cut, uncut, voided velvet with additional patterning wefts in gold foil against plain weave foundation
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/1992)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16495)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
