@@ -93,25 +93,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Rinaldo and the Magus of Ascalon
+## The Landing Place
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/bd2dd3d8-14f3-7acc-baf7-1033694d3740/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/83092988-7180-21d1-b8a3-cf39ddf39a68/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Giovanni Battista Tiepolo (Italian, 1696–1770)
+**Artist:** Hubert Robert (French, 1733-1808)
 
-**Date:** c. 1742–45
+**Date:** 1788
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16495)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/57050)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
