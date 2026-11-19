@@ -94,25 +94,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Landing Place
+## Woman Reclining in a Landscape
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/83092988-7180-21d1-b8a3-cf39ddf39a68/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/6016de19-2ca1-8ea8-1ba8-17fc6786a681/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Hubert Robert (French, 1733-1808)
+**Artist:** Giulio Campagnola, Italian, c. 1482-1515/18
 
-**Date:** 1788
+**Date:** 1508/09
 
-**Medium:** Oil on canvas
+**Medium:** Engraving on paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/57050)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/13636)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
