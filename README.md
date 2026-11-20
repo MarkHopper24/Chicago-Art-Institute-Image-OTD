@@ -95,25 +95,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Woman Reclining in a Landscape
+## Landscape
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/6016de19-2ca1-8ea8-1ba8-17fc6786a681/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/1501b057-0441-f1fa-e949-298b06ec6270/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Giulio Campagnola, Italian, c. 1482-1515/18
+**Artist:** Jean-Baptiste-Camille Corot (French, 1796–1875)
 
-**Date:** 1508/09
+**Date:** 1865/70
 
-**Medium:** Engraving on paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/13636)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/877)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
