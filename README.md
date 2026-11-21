@@ -96,25 +96,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Landscape
+## Armida Abandoned by Rinaldo
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/1501b057-0441-f1fa-e949-298b06ec6270/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/4d2eeeeb-817c-2b00-68e8-4f4c75f7f061/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jean-Baptiste-Camille Corot (French, 1796–1875)
+**Artist:** Giovanni Battista Tiepolo (Italian, 1696–1770)
 
-**Date:** 1865/70
+**Date:** c. 1742–45
 
 **Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/877)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16492)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
