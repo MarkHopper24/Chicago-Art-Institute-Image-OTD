@@ -97,25 +97,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Armida Abandoned by Rinaldo
+## The Capture of Samson
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/4d2eeeeb-817c-2b00-68e8-4f4c75f7f061/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/a8fd8a92-d5fd-bb98-5d70-f970ab1788b8/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Giovanni Battista Tiepolo (Italian, 1696–1770)
+**Artist:** Peter Paul Rubens (Flemish, 1577-1640)
 
-**Date:** c. 1742–45
+**Date:** 1609–10
 
-**Medium:** Oil on canvas
+**Medium:** Oil on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/16492)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8953)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
