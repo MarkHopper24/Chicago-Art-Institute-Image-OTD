@@ -99,25 +99,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Adoration of the Magi
+## The Major's Daughter, from "Once a Week"
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/5f5b4009-7e1c-2e07-8b3e-ae59a3cf9c4c/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/06c17b8b-3acf-2274-5587-29a7e6227e1f/full/498,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Jan van Scorel (Netherlandish, 1495-1562)
+**Artist:** Joseph Swain (English, 1820-1909), designed by James McNeill Whistler (American, 1834-1903)
 
-**Date:** c. 1519
+**Date:** 1862
 
-**Medium:** Oil on panel
+**Medium:** Wood engraving on ivory wove China paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21937)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/14474)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
