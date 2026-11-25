@@ -100,25 +100,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## The Major's Daughter, from "Once a Week"
+## Paperweight
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/06c17b8b-3acf-2274-5587-29a7e6227e1f/full/498,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/f1142012-6697-b0cf-b5c2-3707c75aa4b2/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Joseph Swain (English, 1820-1909), designed by James McNeill Whistler (American, 1834-1903)
+**Artist:** France or Czech Republic
 
-**Date:** 1862
+**Date:** c. 1870
 
-**Medium:** Wood engraving on ivory wove China paper
+**Medium:** Glass
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/14474)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/107288)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
