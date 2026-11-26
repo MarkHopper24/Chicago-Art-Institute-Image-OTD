@@ -101,25 +101,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Paperweight
+## Christ Carrying the Cross
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/f1142012-6697-b0cf-b5c2-3707c75aa4b2/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/84899261-2add-0f0d-b7fa-eba017663d07/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** France or Czech Republic
+**Artist:** Master of the Worcester Carrying of the Cross (active c. 1400–c. 1450)
 
-**Date:** c. 1870
+**Date:** c. 1425
 
-**Medium:** Glass
+**Medium:** Oil on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/107288)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59897)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
