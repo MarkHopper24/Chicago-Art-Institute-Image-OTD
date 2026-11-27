@@ -102,25 +102,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Christ Carrying the Cross
+## Fragment (Border)
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/84899261-2add-0f0d-b7fa-eba017663d07/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/c180604e-2ac8-647c-e324-0687692fc94e/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Master of the Worcester Carrying of the Cross (active c. 1400–c. 1450)
+**Artist:** Iran (Persia)
 
-**Date:** c. 1425
+**Date:** 17th century
 
-**Medium:** Oil on panel
+**Medium:** Gold woven border.
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/59897)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8704)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
