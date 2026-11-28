@@ -103,6 +103,7 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
 ## Fragment (Border)
@@ -122,6 +123,8 @@
 [View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8704)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
